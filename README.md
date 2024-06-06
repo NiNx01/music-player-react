@@ -1,6 +1,4 @@
 
-### Spotify-inspired Music Player
-
 # Spotify-inspired Music Player
 
 An ongoing project inspired by Spotify's web app to create a music player with similar functionality.
