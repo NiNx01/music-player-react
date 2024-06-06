@@ -24,4 +24,4 @@ The project is still in development, focusing on enhancing features and UI.
 
 git clone https://github.com/yourusername/music-player.git
 cd music-player
-# Additional setup instructions if any
+
