@@ -1,8 +1,28 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Spotify-inspired Music Player
 
-Currently, two official plugins are available:
+```markdown
+# Spotify-inspired Music Player
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+An ongoing project inspired by Spotify's web app to create a music player with similar functionality.
+
+## Overview
+This project fetches playlists, albums, songs, and user data from Spotify using the Spotify API. It aims to replicate Spotify's UI and features.
+
+## Technologies Used
+- React.js
+- Vite
+
+## Features
+- Integration with Spotify API
+- User authentication with Google login
+- Fetching playlists, albums, songs, and play history
+
+## Current Status
+The project is still in development, focusing on enhancing features and UI.
+
+## Installation
+```bash
+git clone https://github.com/yourusername/music-player.git
+cd music-player
+# Additional setup instructions if any
