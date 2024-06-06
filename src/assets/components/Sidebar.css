@@ -1,0 +1,8 @@
+.side-bar {
+    height: 88vh;
+    width: clamp(20rem , 25vw , 30rem);
+    flex-shrink: 0;
+    display: grid;
+    gap: var(--outer-spacing);
+    grid-template-rows: max-content 1fr;
+}

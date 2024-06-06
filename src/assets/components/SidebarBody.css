@@ -1,0 +1,36 @@
+.side-bar__body {
+    border-radius: var(--section-radius);
+    background-color: var(--bg-base);
+    display: grid;
+    grid-template-rows: max-content 1px 1fr;
+    overflow: hidden;
+}
+
+.side-bar__body-title-wrapper {
+    color: var(--text-base);
+    display: flex;
+    align-items: center;
+    line-height: 1.1;
+    gap: 1rem;
+    margin: 1rem 1.5rem;
+}
+
+.side-bar__body-icon {
+    font-size: 1.5rem;
+}
+
+.side-bar__body-title {
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.divider {
+    border: 0;
+    height: 1px;
+    background-color: var(--bg-highlight);
+}
+
+.playlist-wrapper {
+    padding: 0.5rem;
+    overflow-y: auto;
+}

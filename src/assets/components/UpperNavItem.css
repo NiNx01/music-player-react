@@ -1,0 +1,22 @@
+.upper-nav__link {
+    color: var(--text-sub);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    line-height: 1.25;
+    gap: 1rem;
+    transition: opacity 350ms ease-in-out;
+}
+
+.upper-nav__link:hover {
+    opacity: 0.7;
+}
+
+.active-link {
+    color: var(--text-base);
+}
+
+.upper-nav__icon {
+    font-size: 1.5rem;
+
+}

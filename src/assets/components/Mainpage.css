@@ -1,0 +1,7 @@
+main {
+    background-color: var(--bg-base) ;
+    height: 88vh;
+    width: 100%;
+    border-radius: var(--section-radius);
+    overflow-y: auto;
+}

@@ -1,0 +1,12 @@
+.side-bar__upper {
+    border-radius: var(--section-radius);
+    background-color: var(--bg-base);
+
+}
+
+.side-bar__upper-nav {
+    list-style: none;
+    display: grid;
+    gap: 1rem;
+    padding: 1rem 1.5rem;
+}

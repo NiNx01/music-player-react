@@ -1,0 +1,33 @@
+.song-details {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    width: fit-content;
+    flex-grow: 0;
+    max-width: calc(25vw + 4rem);
+}
+
+.song-img {
+    border-radius: 4px;
+}
+
+.song-name {
+    font-size: 0.875rem;
+    color: var(--text-base);
+    font-weight: 400;
+    width: clamp(20ch , 25vw , 40ch);
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.artist-name {
+    font-size: 0.75rem;
+    color: var(--text-sub-2);
+    width: clamp(20ch , 35vw , 40ch);
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
