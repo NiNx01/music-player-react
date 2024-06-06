@@ -19,7 +19,7 @@ This project fetches playlists, albums, songs, and user data from Spotify using 
 The project is still in development, focusing on enhancing features and UI.
 
 ## Installation
-
+```bash
 git clone https://github.com/yourusername/music-player.git
 cd music-player
 
