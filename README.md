@@ -1,7 +1,6 @@
 
 ### Spotify-inspired Music Player
 
-```markdown
 # Spotify-inspired Music Player
 
 An ongoing project inspired by Spotify's web app to create a music player with similar functionality.
@@ -22,7 +21,7 @@ This project fetches playlists, albums, songs, and user data from Spotify using 
 The project is still in development, focusing on enhancing features and UI.
 
 ## Installation
-```bash
+
 git clone https://github.com/yourusername/music-player.git
 cd music-player
 # Additional setup instructions if any
